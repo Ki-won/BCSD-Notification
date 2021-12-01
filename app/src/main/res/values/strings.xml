@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BCSD_Project01</string>
+    :09
+    <string name="CutFrag_strText"> Here os a randrom number \n between 0 and %d </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="notification_title">병천순대국밥</string>
+    <string name="notification_text_main">역시 충남집이 최고야</string>
+
+
+</resources>
